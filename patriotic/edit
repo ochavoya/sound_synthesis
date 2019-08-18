@@ -1,0 +1,5 @@
+#!/bin/ksh 
+rm a.out
+gedit "america the beautiful.c"
+cc "america the beautiful.c" -lm 
+./a.out

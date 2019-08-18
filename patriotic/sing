@@ -1,0 +1,7 @@
+#!/bin/bash
+cc "america the beautiful.c" -lm
+./a.out
+cc "battle hymn.c" -lm
+./a.out
+cc "god bless the usa.c" -lm
+./a.out

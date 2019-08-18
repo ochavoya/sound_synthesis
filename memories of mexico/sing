@@ -1,0 +1,49 @@
+echo "alla en el rancho grande"
+gcc "alla en el rancho grande.c" -lm
+./a.out flag
+echo "la cucaracha"
+gcc "la cucaracha.c" -lm
+./a.out flag
+echo "la borrachita.c"
+gcc "la borrachita.c" -lm
+./a.out flag
+echo "donde estas corazon"
+gcc "donde estas corazon.c" -lm
+./a.out flag
+echo "jarabe tapatio"
+gcc "jarabe tapatio.c" -lm
+./a.out flag
+echo "las gaviotas"
+gcc "las gaviotas.c" -lm
+./a.out flag
+echo "negra consentida"
+gcc "negra consentida.c" -lm
+./a.out flag
+echo "la golondrina"
+gcc "la golondrina.c" -lm
+./a.out flag
+echo "la chaparrita"
+gcc "la chaparrita.c" -lm
+./a.out flag
+echo "noche azul"
+gcc "noche azul.c" -lm
+./a.out flag
+echo "cancion mixteca"
+gcc "cancion mixteca.c" -lm
+./a.out flag
+echo "las mananitas.c"
+gcc "las mananitas.c" -lm
+./a.out flag
+echo "la paloma"
+gcc "la paloma.c" -lm
+./a.out flag
+echo "hastio"
+gcc hastio.c -lm
+./a.out flag
+echo "himno nacional mexicano"
+gcc "himno nacional mexicano.c" -lm
+./a.out flag
+mv *.wav ../"Memories of Mexico Wavs"/
+echo "TASK FINISHED!"
+
+

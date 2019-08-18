@@ -1,0 +1,2 @@
+gcc "god bless the usa.c" -lm
+./a.out
